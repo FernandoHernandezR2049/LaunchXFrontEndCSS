@@ -1,0 +1,137 @@
+html {
+  font-family: "Roboto", sans-serif;
+}
+section {
+  width: 80%;
+  margin: 0 auto;
+}
+h1,
+h2,
+h3 {
+  color: #244171;
+}
+h6 {
+  font-weight: 400;
+  color: #3753cf;
+  font-size: 1rem;
+}
+p {
+  color: #6c7a91;
+}
+span {
+  margin: 0.5rem;
+}
+li {
+  list-style: none;
+}
+footer {
+  width: 80%;
+  margin: 0 auto;
+}
+.icon {
+  color: #3753cf;
+}
+.yellow-icon {
+  color: #ffd038;
+}
+.navbar {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+  color: gray;
+  font-weight: 500;
+}
+
+.navtitle {
+  width: 40%;
+  color: #3753cf;
+}
+
+.nav-content {
+  display: flex;
+  align-items: center;
+}
+.blue-btn {
+  background-color: #3753cf;
+  color: white;
+  padding: 0.7rem;
+  border-radius: 0.5rem;
+  height: 1.5rem;
+}
+.hero {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  color: gray;
+}
+.hero-title {
+  color: #244171;
+  font-size: 3.5rem;
+}
+.hero-text {
+  width: 50%;
+}
+.hero-info {
+  display: flex;
+}
+.icon-and-text {
+  display: flex;
+  align-items: center;
+}
+.hero-img {
+  width: 50%;
+}
+.floating-list {
+  display: flex;
+}
+.floating-list-container {
+  display: flex;
+  align-items: baseline;
+}
+.vaccination-benefits {
+  display: flex;
+  margin: 5rem auto;
+}
+.vaccination-benefit {
+  padding: 0 3rem;
+}
+.side-content {
+  width: 50%;
+}
+.side-content-container {
+  width: 90%;
+  margin: 0 auto;
+}
+.split-container {
+  display: flex;
+}
+.success-item {
+  display: flex;
+  align-items: center;
+}
+.contacts-container {
+  display: flex;
+}
+.main-footer-content {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-elements {
+  display: flex;
+}
+.contact {
+  margin-right: 4rem;
+}
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.contact-number {
+  font-size: 0.7rem;
+}
+.footer-item {
+  color: #6c7a91;
+  list-style: none;
+}
